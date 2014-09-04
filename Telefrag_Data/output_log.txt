@@ -1,0 +1,67 @@
+Initialize engine version: 4.5.0f6 (fd4616464986)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 780 (ID=0x1004)
+    Vendor:   NVIDIA
+    VRAM:     2966 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Projects\Games\Telefrag\Telefrag_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Projects\Games\Telefrag\Telefrag_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Projects\Games\Telefrag\Telefrag_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\Projects\Games\Telefrag\Telefrag_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.053 seconds
+desktop: 1920x1080 120Hz; virtual: 7680x1080 at -3840,0
+<RI> Initializing input.
+<RI> Input initialized.
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1783)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1783)
+
+UnityException: Input Key named: throwGun is unknown
+  at (wrapper managed-to-native) UnityEngine.Input:GetKeyDownString (string)
+  at UnityEngine.Input.GetKeyDown (System.String name) [0x00000] in <filename unknown>:0 
+  at GunScript.Main () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Switch Position
+ 
+(Filename: C:/BuildAgent/work/aeedb04a1292f85a/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Switch Position
+ 
+(Filename: C:/BuildAgent/work/aeedb04a1292f85a/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Switch Position
+ 
+(Filename: C:/BuildAgent/work/aeedb04a1292f85a/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hit
+ 
+(Filename: C:/BuildAgent/work/aeedb04a1292f85a/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Hit
+ 
+(Filename: C:/BuildAgent/work/aeedb04a1292f85a/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+nada
+ 
+(Filename: C:/BuildAgent/work/aeedb04a1292f85a/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+nada
+ 
+(Filename: C:/BuildAgent/work/aeedb04a1292f85a/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+nada
+ 
+(Filename: C:/BuildAgent/work/aeedb04a1292f85a/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+nada
+ 
+(Filename: C:/BuildAgent/work/aeedb04a1292f85a/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
